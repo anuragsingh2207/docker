@@ -1,2 +1,2 @@
-# docker_repo
-This repo contains docker files
+# Docker
+This repo contains sample docker files
